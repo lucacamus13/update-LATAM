@@ -33,13 +33,8 @@ Automatizar un **dashboard económico-financiero** actualizado semanalmente, ide
 
 Obtención automática de tasas actuales y variaciones a 30 días de:
 
-| País        | Fuente                       | Estado     |
-|-------------|------------------------------|------------|
-| 🇨🇱 Chile    | API oficial del BCCh         | 🤖 Automático |
-| 🇧🇷 Brasil   | API oficial del BCB          | 🤖 Automático |
-| 🇲🇽 México   | Scraping desde Investing.com | ⚙️ Semiautomático |
-| 🇨🇴 Colombia | API de BanRep                | 🤖 Automático |
-| 🇺🇸 EE.UU.   | (FRED API en progreso)       | 🧪 En desarrollo |
+![Tasa LATAM](img/politica_monetaria.png)
+
 
 Calcula variaciones en puntos básicos  
 Genera tabla en consola + imagen PNG con íconos de tendencia (`📈 📉 ➡️`)
