@@ -52,7 +52,7 @@ Consulta de monedas vs. USD:
 ### 4. Commodities
 
 Seguimiento de precios y cambios de commodities estratégicos:
-![Tasa LATAM](img/comModities.png)
+![Tasa LATAM](img/commodities.png)
 
 ---
 
