@@ -33,7 +33,7 @@ Automatizar un **dashboard económico-financiero** actualizado semanalmente, ide
 
 Obtención automática de tasas actuales y variaciones a 30 días de:
 
-![Tasa LATAM](img/politica_monetaria.png)
+![Tasa LATAM](img/política_monetaria.png)
 
 
 Calcula variaciones en puntos básicos  
