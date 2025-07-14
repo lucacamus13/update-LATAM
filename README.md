@@ -4,7 +4,7 @@ Este proyecto en Python automatiza la recolección, procesamiento y visualizaci�
 
 - Principales bolsas de LATAM.
 - Rendimiento de los mercados.
-- - Tipo de cambio (monedas de LATAM frente al dólar)
+- Tipo de cambio (monedas de LATAM frente al dólar)
 - Precios de commodities clave para la región
 - Tasas de política monetaria
 
