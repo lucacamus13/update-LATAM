@@ -23,9 +23,9 @@ Automatizar un **dashboard económico-financiero** actualizado semanal/diariamen
 - APIs oficiales:
   - Banco Central de Chile (BCCh)
   - Banco Central de Brasil (BCB)
-  - Banxico
-  - Banco de la República de Colombia (BanRep)
-  - (En desarrollo: FRED – Fed de EE.UU.)
+  - Banco Central de St. Louis (FRED)
+  - Yahoo Finance
+
 
 ---
 
@@ -52,7 +52,7 @@ Consulta de monedas vs. USD:
 ### 4. Commodities
 
 Seguimiento de precios y cambios de commodities estratégicos:
-![Tasa LATAM](img/comoditties.png)
+![Tasa LATAM](img/comodities.png)
 
 ---
 
